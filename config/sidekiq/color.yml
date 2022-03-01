@@ -1,0 +1,5 @@
+:concurrency: 1
+:queues:
+  - [red, 10]
+  - [yellow, 5]
+  - [green, 1]

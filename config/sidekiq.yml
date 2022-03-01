@@ -1,0 +1,7 @@
+:concurrency: 15
+:queues:
+  - [critical, 1]
+  - [default, 2]
+  - [low, 3]
+  - [postcard, 4]
+  - [ffmpeg, 5]
